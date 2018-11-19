@@ -20,7 +20,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+"
+    "url": "git+https://github.com/acrosman/simple-project-sim.git"
   },
   "keywords": [
     "npm",
@@ -31,7 +31,7 @@
   "author": "Aaron Crosman <acrosman@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": ""
+    "url": "https://github.com/acrosman/simple-project-sim/issues"
   },
   "homepage": "",
   "devDependencies": {
